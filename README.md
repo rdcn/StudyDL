@@ -1,2 +1,2 @@
 # StudyDL
-Simple tasks on deep learning
+Simple tasks on Deep Learning
